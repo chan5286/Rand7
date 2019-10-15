@@ -6,6 +6,4 @@ void main() {
 		s = (s * c) % 10000;
 		printf("%d\n", s);
 	}
-
-
 }
